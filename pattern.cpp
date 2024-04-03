@@ -11,7 +11,6 @@ for(j = 1; j <= i; j++)
 {
 cout << "* ";
 }
-//Ending line after each row
 cout << "\n";
 }
 return 0;
